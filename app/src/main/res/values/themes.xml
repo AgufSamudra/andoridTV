@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Codetv" parent="@style/Theme.Leanback" />
+</resources>
