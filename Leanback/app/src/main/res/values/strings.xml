@@ -36,7 +36,7 @@
 
     <string name="search_results">Search results for \'%1$s\'</string>
     <string name="no_search_results">No search results found for \'%1$s\'</string>
-    <string name="URLAPI">https://cobaapi.agufsamudra1.repl.co</string>
+    <string name="URLAPI">https://androidapi-vert.vercel.app/api</string>
 <!--    http://127.0.0.1:5000/api/data-->
 
     <!-- Error messages -->
